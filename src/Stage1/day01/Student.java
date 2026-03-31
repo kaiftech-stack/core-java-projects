@@ -1,3 +1,5 @@
+package Stage1.day01;
+
 public class Student{
 
     private String name;

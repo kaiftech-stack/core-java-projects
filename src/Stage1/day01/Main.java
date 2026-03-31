@@ -1,4 +1,6 @@
-public class Main{
+package Stage1.day01;
+
+public class Main {
     public static void main(String[] args) {
         Student s1 = new Student("Kaif Pathan","CS2024-021","Computer Science",2027,'A');
         s1.printCard();
